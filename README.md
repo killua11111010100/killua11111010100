@@ -46,3 +46,4 @@ I have experience in:
 
 📫 Let's connect:
 - LinkedIn: (www.linkedin.com/in/edwar-nazzarian)
+- Portfolio: (https://killua11111010100.github.io/edwarnazzarian.github.io/)
