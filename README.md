@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/edwar-nazzarian/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https:// https://killua11111010100.github.io/edwarnazzarian.github.io//" target="_blank">
+  <a href="https://killua11111010100.github.io/edwarnazzarian.github.io//" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:edwarnazzarian75@gmail.com">
