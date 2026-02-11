@@ -45,4 +45,4 @@ I have experience in:
 ---
 
 📫 Let's connect:
-- LinkedIn: (mets ton lien ici)
+- LinkedIn: (www.linkedin.com/in/edwar-nazzarian)
