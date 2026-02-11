@@ -1,5 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Edwar Nazzarian</h1>
 <h3 align="center">Software Engineering Student at ÉTS (Montreal)</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=killua11111010100&style=for-the-badge" />
+</p>
+
 ---
 📫 Let's connect:
 <p align="center">
@@ -14,10 +18,7 @@
   </a>
 </p>
 ---
-🎓 Software Engineering Student at ÉTS  
-💻 Passionate about Web & Mobile Development  
-🔐 Interested in Cybersecurity & Embedded Systems  
----
+
 ## 🧰 Tech Stack
 
 <p>
@@ -32,6 +33,12 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+---
+
+🎓 Software Engineering Student at ÉTS  
+💻 Passionate about Web & Mobile Development  
+🔐 Interested in Cybersecurity & Embedded Systems  
 ---
 
 ## 🚀 About Me
